@@ -56,11 +56,15 @@ class Solution {
 
 ## 📅 Daily Problem Tracker
 
-| Day   | Problem No. | Question / Topic          |
-| ----- | ----------- | ------------------------- |
-| Day 1 | 1.1         | Two Sum – Array + HashMap |
-| Day 2 |             |                           |
-| Day 3 |             |                           |
+| Day   | Problem No. | Folder-File No. | Problem Name                  |
+|-------|-------------|-----------------|-------------------------------|
+| Day 1 | 1.1         | basic-maths/001 | Reverse Integer               |
+| Day 1 | 1.2         | basic-maths/002 | Palindrome Number             |
+| Day 1 | 1.3         | basic-maths/003 | Armstrong Number              |
+| Day 1 | 1.4         | basic-maths/004 | Number of Divisors            |
+| Day 1 | 1.5         | basic-maths/005 | Prime Number Check            |
+| Day 1 | 1.6         | basic-maths/006 | Greatest Common Divisor (GCD) |
+|-------|-------------|-----------------|-------------------------------|
 
 ---
 

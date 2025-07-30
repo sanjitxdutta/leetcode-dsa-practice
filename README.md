@@ -25,11 +25,9 @@ This is where I solve daily coding problems and sharpen my understanding of core
 
 ```bash
 leetcode-dsa-practice/
-├── arrays/
-├── strings/
-├── linked-list/
-├── trees/
-├── dynamic-programming/
+├── basic-hashing/
+├── basic-maths/
+├── basic-recursion/
 ├── README.md
 ```
 

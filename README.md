@@ -65,6 +65,13 @@ class Solution {
 | Day 1 | 1.5         | basic-maths/005 | Prime Number Check            |
 | Day 1 | 1.6         | basic-maths/006 | Greatest Common Divisor (GCD) |
 |-------|-------------|-----------------|-------------------------------|
+| Day 2 | 2.1         | basic-hashing/001-count-frequency.java         | Count Frequency of Elements                  |
+| Day 2 | 2.2         | basic-hashing/002-hashmap.java                 | HashMap Frequency Count                      |
+| Day 2 | 2.3         | basic-hashing/003-frequency-of-the-most-frequent-element.java | Max Frequency After Increments   |
+| Day 2 | 2.4         | basic-recursion/001-reverse-array.java         | Reverse Array Using Recursion                |
+| Day 2 | 2.5         | basic-recursion/002-string-palindrome.java     | Palindrome Check (String) Using Recursion    |
+| Day 2 | 2.6         | basic-recursion/003-fibonacci-number.java      | Fibonacci Number Using Recursion             |
+|-------|-------------|-----------------|-------------------------------|
 
 ---
 

@@ -75,6 +75,14 @@ class Solution {
 | Day 3 | 3.5         | sorting-techniques/005        | Quick Sort                       |
 | Day 3 | 3.6         | sorting-techniques/006        | Recursive Bubble Sort            |
 | Day 3 | 3.7         | sorting-techniques/007        | Recursive Insertion Sort         |
+| Day 4 | 4.1         | array/001                     | Largest Element in Array                     |
+| Day 4 | 4.2         | array/002                     | Second Largest Element in Array              |
+| Day 4 | 4.3         | array/003                     | Check if Array is Sorted and Rotated         |
+| Day 4 | 4.4         | array/004                     | Remove Duplicates from Sorted Array          |
+| Day 4 | 4.5         | array/005                     | Left Rotate Array by One Place               |
+| Day 4 | 4.6         | array/006                     | Right Rotate Array by K Places               |
+| Day 4 | 4.7         | array/007                     | Move Zeroes                                  |
+| Day 4 | 4.8         | array/008                     | Linear Search                                |
 
 ---
 

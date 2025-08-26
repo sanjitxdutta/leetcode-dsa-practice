@@ -83,6 +83,11 @@ class Solution {
 | Day 4 | 4.6         | array/006                     | Right Rotate Array by K Places               |
 | Day 4 | 4.7         | array/007                     | Move Zeroes                                  |
 | Day 4 | 4.8         | array/008                     | Linear Search                                |
+| Day 5 | 5.1         | array/009                     | union-of-sorted-array                        |
+| Day 5 | 5.2         | array/010                     | intersection-of-sorted-array                 |
+| Day 5 | 5.3         | array/011                     | missing-number                               |
+| Day 5 | 5.4         | array/012                     | max-consecutive-ones                         |
+| Day 5 | 5.5         | array/013                     | single-number                                |
 
 ---
 

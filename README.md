@@ -88,6 +88,7 @@ class Solution {
 | Day 5 | 5.3         | array/011                     | missing-number                               |
 | Day 5 | 5.4         | array/012                     | max-consecutive-ones                         |
 | Day 5 | 5.5         | array/013                     | single-number                                |
+| Day 6 | 6.1         | array/014                     | longest-subarray-with-sum-k                  |
 
 ---
 
